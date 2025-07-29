@@ -1,0 +1,25 @@
+{
+  "name": "sowonflow-examples",
+  "version": "1.0.0",
+  "description": "SowonFlow public example code collection",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "hello": "node hello-sowonflow.js"
+  },
+  "keywords": [
+    "sowonflow",
+    "ai",
+    "workflow",
+    "automation",
+    "agent"
+  ],
+  "author": "SowonAI",
+  "license": "MIT",
+  "dependencies": {
+    "@sowonai/sowonflow": "^0.1.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
