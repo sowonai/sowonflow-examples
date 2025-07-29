@@ -74,9 +74,8 @@ nodes:
 
     // 5. Test with a simple question
     console.log('💬 Question: "Hello! Please briefly introduce SowonFlow."');
-    console.log('🤖 Answer:');
-    
     const result = await workflow.ask("Hello! Please briefly introduce SowonFlow.");
+    console.log('🤖 Answer:');
     console.log(result.content);
 
     console.log('\n' + '='.repeat(50));
