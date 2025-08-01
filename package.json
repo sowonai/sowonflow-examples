@@ -17,7 +17,7 @@
   "author": "SowonAI",
   "license": "MIT",
   "dependencies": {
-    "@sowonai/sowonflow": "^0.1.6"
+    "@sowonai/sowonflow": "^0.1.7"
   },
   "devDependencies": {
     "dotenv": "^16.0.0"
